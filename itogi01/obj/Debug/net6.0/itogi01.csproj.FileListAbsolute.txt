@@ -1,0 +1,15 @@
+G:\Учеба\Програм\Itogi\itogi01\bin\Debug\net6.0\itogi01.exe
+G:\Учеба\Програм\Itogi\itogi01\bin\Debug\net6.0\itogi01.deps.json
+G:\Учеба\Програм\Itogi\itogi01\bin\Debug\net6.0\itogi01.runtimeconfig.json
+G:\Учеба\Програм\Itogi\itogi01\bin\Debug\net6.0\itogi01.dll
+G:\Учеба\Програм\Itogi\itogi01\bin\Debug\net6.0\itogi01.pdb
+G:\Учеба\Програм\Itogi\itogi01\obj\Debug\net6.0\itogi01.csproj.AssemblyReference.cache
+G:\Учеба\Програм\Itogi\itogi01\obj\Debug\net6.0\itogi01.GeneratedMSBuildEditorConfig.editorconfig
+G:\Учеба\Програм\Itogi\itogi01\obj\Debug\net6.0\itogi01.AssemblyInfoInputs.cache
+G:\Учеба\Програм\Itogi\itogi01\obj\Debug\net6.0\itogi01.AssemblyInfo.cs
+G:\Учеба\Програм\Itogi\itogi01\obj\Debug\net6.0\itogi01.csproj.CoreCompileInputs.cache
+G:\Учеба\Програм\Itogi\itogi01\obj\Debug\net6.0\itogi01.dll
+G:\Учеба\Програм\Itogi\itogi01\obj\Debug\net6.0\refint\itogi01.dll
+G:\Учеба\Програм\Itogi\itogi01\obj\Debug\net6.0\itogi01.pdb
+G:\Учеба\Програм\Itogi\itogi01\obj\Debug\net6.0\itogi01.genruntimeconfig.cache
+G:\Учеба\Програм\Itogi\itogi01\obj\Debug\net6.0\ref\itogi01.dll
