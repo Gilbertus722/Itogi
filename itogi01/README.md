@@ -20,4 +20,4 @@ _Описание алгоритма решения_:
 =======
  
  ![007](https://user-images.githubusercontent.com/112508781/196033592-c5c755c3-3670-4a02-bf7b-cd179e941659.jpg)
->>>>>>> a89156ea78d5fa897cf120f24bba3aecfd912415
+
